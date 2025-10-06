@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+f5ad53c8491d67585707ce5ed3d2d657 CMakeFiles/copy_models
+674c284c26f3efb98f681e426b67929d CMakeFiles/copy_shaders
+1052e7f01b0c8da014123878bc7022f8 CMakeFiles/copy_textures

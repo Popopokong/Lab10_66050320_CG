@@ -1,0 +1,6 @@
+/Users/kong/Downloads/CG_Lab8_66050541-main/OpenGLStarter/build/CMakeFiles/OpenGLStarter.dir
+/Users/kong/Downloads/CG_Lab8_66050541-main/OpenGLStarter/build/CMakeFiles/copy_models.dir
+/Users/kong/Downloads/CG_Lab8_66050541-main/OpenGLStarter/build/CMakeFiles/copy_textures.dir
+/Users/kong/Downloads/CG_Lab8_66050541-main/OpenGLStarter/build/CMakeFiles/copy_shaders.dir
+/Users/kong/Downloads/CG_Lab8_66050541-main/OpenGLStarter/build/CMakeFiles/edit_cache.dir
+/Users/kong/Downloads/CG_Lab8_66050541-main/OpenGLStarter/build/CMakeFiles/rebuild_cache.dir
